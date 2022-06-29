@@ -1,0 +1,8 @@
+.MySelect {
+    padding: 8px 15px;
+    color: #00a3a3;
+    font-size: 16px;
+    background: transparent;
+    border: 1px solid #00a3a3;
+    cursor: pointer;
+}

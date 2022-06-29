@@ -1,0 +1,29 @@
+.navBar {
+    height: 50px;
+    width: 100%;
+    padding: 15px 15px;
+    background-color: #324253be;
+}
+
+.navBar__links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    list-style: none;
+    padding: 0px 20px;
+}
+
+li {
+    margin-right: 50px;
+}
+
+.a {
+    color: #dddddd;
+    text-decoration: none;
+}
+
+.a:hover {
+    transition: 0.3s;
+    color: #00a3a3;
+}
